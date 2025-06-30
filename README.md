@@ -22,3 +22,13 @@ Adds three valuable coins to the game with crafting recipes and coin management 
 ```code
 [ Gold Ingot ] [ Gold Ingot ]
 [ Gold Ingot ] [ Gold Ingot ]
+
+### Steel Coin (1 coin)
+[ Steel ] [ Steel ] [ Steel ]
+[ Steel ] [ Mese Crystal ] [ Steel ]
+[ Steel ] [ Steel ] [ Steel ]
+
+## Diamond Coin (1 coin)
+[ Diamond ] [ Diamond ] [ Diamond ]
+[ Diamond ] [ Mese Block ] [ Diamond ]
+[ Diamond ] [ Diamond ] [ Diamond ]
